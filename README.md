@@ -4,7 +4,7 @@ A vulnerable machine for practicing penetration testing and ethical hacking skil
 
 ## Introduction
 
-This CTF machine is designed to test and improve your skills in network analysis, privilege escalation, enumeration and more.
+This CTF machine is designed to test and improve your skills in network analysis, privilege escalation, enumeration and more. There are four flags hidden throughout the machine for you to discover.
 
 ## Features
 
@@ -16,7 +16,7 @@ This CTF machine is designed to test and improve your skills in network analysis
 
 ## Setup Instructions
 
-1. Download the VM file from this repository.
+1. Download the VM file from the google drive link: https://drive.google.com/drive/folders/12_RgEWiy4B2VuIe7EtkR07QvTBBaAIEd?usp=sharing 
 2. Import the VM into [VirtualBox](https://www.virtualbox.org/) or [VMware](https://www.vmware.com/).
 3. Start the VM and follow the instructions on the screen.
 
