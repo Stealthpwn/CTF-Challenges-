@@ -4,13 +4,15 @@ A vulnerable machine for practicing penetration testing and ethical hacking skil
 
 ## Introduction
 
-This CTF machine is designed to test and improve your skills in network analysis, privilege escalation, and enumeration.
+This CTF machine is designed to test and improve your skills in network analysis, privilege escalation, enumeration and more.
 
 ## Features
 
 - Privilege escalation
 - vulnerability analysis 
 - Enumeration
+- Cryptography
+- Brute forcing
 
 ## Setup Instructions
 
